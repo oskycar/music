@@ -1,10 +1,2 @@
-夜曲[[:space:]]-[[:space:]]周杰伦.mp3 filter=lfs diff=lfs merge=lfs -text
-破茧[[:space:]]-[[:space:]]张韶涵.mp3 filter=lfs diff=lfs merge=lfs -text
-星辰大海[[:space:]]-[[:space:]]黄霄雲.mp3 filter=lfs diff=lfs merge=lfs -text
-白月光与朱砂痣[[:space:]]-[[:space:]]大籽.mp3 filter=lfs diff=lfs merge=lfs -text
-我要用音乐打败你[[:space:]](Remix)[[:space:]]-[[:space:]]张蔷.mp3 filter=lfs diff=lfs merge=lfs -text
-平凡之路[[:space:]]-[[:space:]]朴树.mp3 filter=lfs diff=lfs merge=lfs -text
-生如夏花[[:space:]]-[[:space:]]朴树.mp3 filter=lfs diff=lfs merge=lfs -text
-那些花儿[[:space:]]-[[:space:]]朴树.mp3 filter=lfs diff=lfs merge=lfs -text
-那些花儿(单曲)[[:space:]]-[[:space:]]朴树.mp3 filter=lfs diff=lfs merge=lfs -text
-爱不得忘不舍[[:space:]](DJ版)[[:space:]]-[[:space:]]白小白.mp3 filter=lfs diff=lfs merge=lfs -text
+*.mp3 filter=lfs diff=lfs merge=lfs -text
+ filter=lfs diff=lfs merge=lfs -text
